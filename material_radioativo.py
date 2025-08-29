@@ -1,4 +1,3 @@
-# Sua solução aqui
 massa = float(input())
 tempo = 0
 
